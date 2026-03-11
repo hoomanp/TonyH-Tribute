@@ -29,6 +29,11 @@ His work on Communicating Sequential Processes (CSP) laid the groundwork for how
 🛑 **The "Billion Dollar Mistake"**
 His humility is as legendary as his intellect. By calling his invention of the null reference his "billion-dollar mistake," he reminded us all that even the most brilliant architects must prioritize safety and clarity over convenience—a vital lesson for those building the next generation of AI.
 
+I’ve created a small Python repository to implement his fundamental works, demonstrating their continued relevance in the age of GenAI:
+🔗 [https://github.com/hoomanp/TonyH-Tribute](https://github.com/hoomanp/TonyH-Tribute)
+
+#TonyHoare #ComputerScience #SoftwareEngineering #GenAI #LLM #Quicksort #FormalMethods
+
 ## Wisdom from Sir Tony Hoare
 > "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult."
 
